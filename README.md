@@ -1,7 +1,7 @@
 I want to learn more about deep learning and I am taking this into my hands by making this project where I will experiment with music composition using different arquitectures.
 
 
-###Roadmap:
+### Roadmap:
 
 
   - ~~Initial Data Collection~~
