@@ -6,7 +6,7 @@ I want to learn more about deep learning and I am taking this into my hands by m
 
   - ~~Initial Data Collection~~
   - Encode midi files into a more ML friendly encoding
-  - Train AWDLSTM
+  - Train AWD-LSTM
   - Train Transformer model
   - Gather More Data (Web scrapping, datasets etc...)
   - Fine Tune
