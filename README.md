@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9b7947c6dd092d6c74fbc165cfa74594a92df855a807ec209b85f329b9c1492e
-size 396
+I want to learn more about deep learning and I am taking this into my hands by making this project where I will experiment with music composition using different arquitectures.
+
+
+### Roadmap:
+
+
+  - ~~Initial Data Collection~~
+  - Encode midi files into a more ML friendly encoding
+  - Train AWD-LSTM at first
+  - Train Transformer model
+  - Gather More Data (Web scrapping, datasets etc...)
+  - Fine Tune
