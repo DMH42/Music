@@ -7,7 +7,8 @@ I want to learn more about deep learning and I am taking this into my hands by m
   - ~~Initial Data Collection~~
   - ~~Read midi files into csv/dataframe~~
   - ~~Encode notes into tokens with information~~
-  - Encode midi files into a more ML friendly encoding
+  - Make encoded dataframe into string representing the music piece
+  - Speed up preprocessing
   - Train AWD-LSTM at first
   - Train Transformer model
   - Gather More Data (Web scrapping, datasets etc...)
