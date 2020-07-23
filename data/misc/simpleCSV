@@ -1,0 +1,9 @@
+0,0, Header, 1,2.0,384.0
+1,0, Start_track,0,0.0,0.0
+1,0, Tempo, 500000,0.0,0.0
+1,0, Time_signature, 4,2.0,24.0
+1,1, End_track,0,0.0,0.0
+2,0, Start_track,0,0.0,0.0
+2,0, Program_c, 0,0.0,0.0
+2,587303, End_track,0,0.0,0.0
+0,0, End_of_file,0,0.0,0.0
