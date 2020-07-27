@@ -10,7 +10,7 @@ I want to learn more about deep learning and I am taking this into my hands by m
   - ~~Make encoded dataframe into string representing the music piece~~
   - ~~Generalize process~~
   - ~~Speed up preprocessing with parell processing~~
-  - Make function to translate string into midi
+  - ~~Make function to translate string into midi~~
   - Train AWD-LSTM at first
   - Train Transformer model
   - Gather More Data (Web scrapping, datasets etc...)
